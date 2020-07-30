@@ -8,8 +8,6 @@
 
 import SwiftUI
 
-import SwiftUI
-
 struct AddItemView: View {
     
     @Environment(\.presentationMode) var presentationMode
